@@ -7,7 +7,7 @@ remember.
 
 ![The obligatory xkcd](http://imgs.xkcd.com/comics/tar.png 'The obligatory xkcd')
 
-`cheat` depends only on `python` and `pip`.
+`cheat` depends only on `python` and `pip`. RANDOM CHANGE.
 
 PyPI status:
 
